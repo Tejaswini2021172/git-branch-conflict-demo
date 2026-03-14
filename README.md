@@ -1,2 +1,4 @@
 # git-branch-conflict-demo
-This project demonstrates Git branching in the MAIN branch.
+
+This project demonstrates Git branching in the MAIN branch version.
+
